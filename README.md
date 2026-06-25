@@ -1,2 +1,22 @@
-# morse-code-translator
-A Python command-line application that translates text to Morse code and vice versa.
+# Morse Code Translator
+
+A command-line application written in Python that translates plain text to Morse code and vice versa.
+
+## Features
+
+- Translate text to Morse code
+- Translate Morse code to text
+- Automatic translation direction detection
+- Supports International Morse Code
+- Input validation
+
+## Screenshot
+
+![Application Demo](screenshots/demo.PNG)
+
+## Technologies
+
+- Python 3
+- Dictionaries
+- Dictionary Comprehension
+- String Manipulation

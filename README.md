@@ -2,6 +2,14 @@
 
 A command-line application written in Python that translates plain text to Morse code and vice versa.
 
+## How to Run
+
+Clone the repository and run:
+
+```bash
+python main.py
+```
+
 ## Features
 
 - Translate text to Morse code

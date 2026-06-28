@@ -102,4 +102,4 @@ while True:
             break
         translated.append(code)
     else:
-        print(separator.join(translated))
+        print(f"Translation: {separator.join(translated)}")
